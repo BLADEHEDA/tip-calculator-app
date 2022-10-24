@@ -44,8 +44,8 @@ resetbtn.addEventListener("click", reset)
     tipinput.value= "";
     peopleinput.value=" ";
     custominput.value=" ";
-    tipamtperson.textContent=0;
-    totalamtperson.innerHTML=0;
+    tipamtperson.textContent=0.00;
+    totalamtperson.innerHTML=0.00;
 
 } 
 
